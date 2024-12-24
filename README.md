@@ -1,9 +1,13 @@
+# (Will likely rename as the new features are added)
 # xtts-finetune-webui
 
-This webui is a slightly modified copy of the [official webui](https://github.com/coqui-ai/TTS/pull/3296) for finetune xtts.
+This webui is a HEAVILY modified copy of the [official webui](https://github.com/coqui-ai/TTS/pull/3296) for finetune xtts.  In the long run, it'll do more than finetune, and it'll work with Auralis and perhap other models, and will process ebooks, parse them, and make audiobooks, and perhaps more.
 
 If you are looking for an option for normal XTTS use look here [https://github.com/daswer123/xtts-webui](https://github.com/daswer123/xtts-webui)
+Thanks to @daswer123 for a good base and @drewThomasson for more good code, and other projects I'm going to crib from as well.
 
+
+# OLDER INFO - Will Update once this is ready for other eyeballs.
 ## TODO
 - [ ] Add the ability to use via console 
 
